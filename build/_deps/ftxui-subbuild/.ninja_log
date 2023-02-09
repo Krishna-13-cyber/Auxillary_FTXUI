@@ -1,0 +1,19 @@
+# ninja log v5
+0	9	1675443999269746793	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	8a6541363ef1dd3a
+0	9	1675443999269746793	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	8a6541363ef1dd3a
+9	9933	1675444009194120601	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	7cc7e006a164b551
+9	9933	1675444009194120601	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	7cc7e006a164b551
+9933	9942	1675444009202121262	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	1e40f1764dab10da
+9933	9942	1675444009202121262	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	1e40f1764dab10da
+9942	9956	1675444009218122586	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	9ea507de440b6ed1
+9942	9956	1675444009218122586	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	9ea507de440b6ed1
+9956	9966	1675444009226123247	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	f44e844ba9f78e21
+9956	9966	1675444009226123247	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	f44e844ba9f78e21
+9966	9980	1675444009242124570	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	8016f46436ee5778
+9966	9980	1675444009242124570	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	8016f46436ee5778
+9980	9990	1675444009250125231	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	3a00a95046caa231
+9980	9990	1675444009250125231	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	3a00a95046caa231
+9990	10004	1675444009266126555	CMakeFiles/ftxui-populate-complete	ce73749e92373a21
+9990	10004	1675444009266126555	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	ce73749e92373a21
+9990	10004	1675444009266126555	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	ce73749e92373a21
+9990	10004	1675444009266126555	/home/prit/quick-ftxui/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	ce73749e92373a21

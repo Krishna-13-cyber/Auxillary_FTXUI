@@ -1,0 +1,19 @@
+# ninja log v5
+0	11	1675444011522328278	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	71b1524cdd44b6ab
+0	11	1675444011522328278	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	71b1524cdd44b6ab
+11	5161	1675444016670920540	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	d922fea4849aec9
+11	5161	1675444016670920540	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	d922fea4849aec9
+5161	5170	1675444016682922107	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	f28395a531aaddb7
+5161	5170	1675444016682922107	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	f28395a531aaddb7
+5170	5178	1675444016690923152	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	5731eeb27ce00145
+5170	5178	1675444016690923152	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	5731eeb27ce00145
+5178	5186	1675444016698924197	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	a79573b5ed3dd54b
+5178	5186	1675444016698924197	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	a79573b5ed3dd54b
+5186	5195	1675444016706925242	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	1f931dffd7954b60
+5186	5195	1675444016706925242	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	1f931dffd7954b60
+5195	5207	1675444016718926809	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	5ffaa02de2a7171b
+5195	5207	1675444016718926809	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	5ffaa02de2a7171b
+5207	5220	1675444016730928376	CMakeFiles/catch2-populate-complete	c87940392137e24a
+5207	5220	1675444016730928376	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	c87940392137e24a
+5207	5220	1675444016730928376	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	c87940392137e24a
+5207	5220	1675444016730928376	/home/prit/quick-ftxui/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	c87940392137e24a

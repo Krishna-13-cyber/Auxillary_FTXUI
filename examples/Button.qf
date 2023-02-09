@@ -1,0 +1,15 @@
+{
+    Toggle{["Random" "test"]
+        ,
+        0
+    }
+    Toggle{["Random" "test" "apple" ]
+        ,
+        1
+    }
+    Button{
+        "Button1",
+        "Exit"
+    }
+    
+}
