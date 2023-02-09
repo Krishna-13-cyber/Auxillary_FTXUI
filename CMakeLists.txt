@@ -5,9 +5,25 @@ project(quick-ftxui
 )
 
 find_package(Boost REQUIRED COMPONENTS regex)
-set(CMAKE_CXX_STANDARD_REQUIRED 20)
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED 17)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_BUILD_TYPE Debug)
+
+# --- Fetch boost --------------------------------------------------------------
+option(QUICK_FTXUI_BOOST "Enable boost fetching from GitHub" ON)
+if(QUICK_FTXUI_BOOST)
+set(BOOST_ENABLE_CMAKE ON)
+set(Boost_USE_STATIC_LIBS ON)
+include(FetchContent)
+FetchContent_Declare(
+  Boost
+  GIT_REPOSITORY https://github.com/boostorg/spirit.git
+  GIT_TAG boost-1.81.0
+)
+FetchContent_MakeAvailable(Boost)
+else()
+find_package(Boost 1.81.0 REQUIRED COMPONENTS spirit) 
+endif()
 
 # --- Fetch FTXUI --------------------------------------------------------------
 include(FetchContent)
